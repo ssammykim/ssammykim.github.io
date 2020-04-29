@@ -99,7 +99,7 @@ defaults:
 # Site Author
 author:
   name: Sammy
-  picture:
+  picture: "/images/profile_sammy.jpeg"
   email: ssammykim@kakao.com
   twitter:
   links:
