@@ -1,0 +1,59 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+$serif-font-family: "Lora", serif;
+$sans-serif-font-family: "Source Sans Pro", sans-serif;
+$noto-sans-font-family: 'Noto Sans KR', sans-serif;
+$nanum-myeongjo-font-family: 'Nanum Myeongjo', serif;
+$roboto-font-family: 'Roboto', sans-serif;
+
+$base-font-family: $noto-sans-font-family;
+$headline-font-family: $noto-sans-font-family;
+$title-font-family: $noto-sans-font-family;
+$description-font-family: $noto-sans-font-family;
+$meta-font-family: $noto-sans-font-family;
+
+
+@charset "utf-8";
+
+@import "so-simple";
+
+/* For Image center*/
+/*.center {
+    display: block;
+    margin: auto;
+}
+
+li {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+P {
+    margin-block-end: 20px;
+}
+
+.entry-title {
+    letter-spacing: 0px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.page-title {
+    letter-spacing: -1px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(30px + 12 * ((100vw - 320px) / 1500));
+    margin-bottom: 2em;
+}
+
+.site-description {
+    margin-top: 1.0em;
+    font-style: normal;
+}
+
+.site-nav {
+    font-family: $noto-sans-font-family;
+}/
