@@ -82,6 +82,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jemoji
+  - jekyll-last-modified-at
 
 # Front Matter Defaults
 defaults:
