@@ -81,6 +81,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jemoji
 
 # Front Matter Defaults
 defaults:
@@ -100,7 +101,6 @@ defaults:
 author:
   name: Sammy
   picture: "/images/profile_sammy.jpeg"
-  description: AI designer, NLP engineering Director
   twitter:
   links:
     - title: GitHub
