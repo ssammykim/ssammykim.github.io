@@ -1,0 +1,12 @@
+# Sample Authors
+# Remove file or replace with your own
+
+author: sammy
+
+Sammy KIM:
+  name: Sammy KIM
+  picture: /images/profile_sammy.jpeg
+  links:
+    - title: GitHub
+      url: "https://github.com/ssammykim"
+      icon: fab fa-github-square
