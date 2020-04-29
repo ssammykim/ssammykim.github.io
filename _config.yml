@@ -100,12 +100,15 @@ defaults:
 author:
   name: Sammy
   picture: "/images/profile_sammy.jpeg"
-  email: ssammykim@kakao.com
+  description: AI designer, NLP engineering Director
   twitter:
   links:
     - title: GitHub
       url: "https://github.com/ssammykim"
       icon: fab fa-github-square
+    - title: email
+      url: mailto:ssammykim@kakao.com
+      icon: fas fa-envelope-square
 
 # Footer Links
 footer_links:
