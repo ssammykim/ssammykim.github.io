@@ -107,6 +107,9 @@ footer_links:
   - title: GitHub
     url: https://github.com/ssammykim
     icon: fab fa-github-square
+  - title: email
+    url: mailto:ssammykim@kakao.com
+    icon: fas fa-envelope-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
