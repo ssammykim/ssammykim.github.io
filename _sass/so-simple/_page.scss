@@ -109,6 +109,7 @@
 }
 
 .page-taxonomies-title {
+  font-family: $title-font-family;
   display: inline;
   padding-right: 0.5em;
   font-size: 0.75rem;
@@ -127,6 +128,7 @@
 }
 
 .page-taxonomies {
+  font-family: $title-font-family;
   display: inline;
   margin-right: 1em;
   padding: 0;
@@ -169,6 +171,7 @@
 .page-previous,
 .page-next {
   display: block;
+  font-family: $title-font-family;
   -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
@@ -193,7 +196,7 @@
 .page-pagination-title {
   margin: 0;
   padding: 0;
-  font-family: $meta-font-family;
+  font-family: $title-font-family;
   font-size: 0.9rem;
   font-style: italic;
 }
