@@ -71,7 +71,7 @@
 
   .page-date,
   .read-time {
-    font-family: $meta-font-family;
+    font-family: $title-font-family;
     font-style: italic;
     white-space: nowrap;
   }
@@ -94,6 +94,7 @@
 }
 
 .page-author {
+  font-family: $title-font-family;
   @include clearfix;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -180,6 +181,8 @@
 
 .page-next {
   margin-top: 1em;
+  font-family: $title-font-family;
+
 
   @include breakpoint($large) {
     margin-top: 0;
