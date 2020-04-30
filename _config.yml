@@ -121,7 +121,7 @@ footer_links:
     icon: fas fa-envelope-square
   - title: buymeacoffee
     url: https://www.buymeacoffee.com/ssammy
-    icon: fas fa-coffee
+    icon: fas fa-coffee-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
