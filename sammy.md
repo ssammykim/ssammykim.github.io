@@ -4,9 +4,9 @@ title: sammy
 permalink: /sammy/
 ---
 Sammy KIM :kissing_heart:  
-- AI designer, NLP engineering Director at. [Kakaoenterprise](https://www.kakaoenterprise.com/)  
-- formal Product Owner, Tech Strategiest at. [Scatterlab](https://scatterlab.co.kr/), [pingpong](https://pingpong.us/)  
-
+AI designer, NLP engineering Director at. [Kakaoenterprise](https://www.kakaoenterprise.com/)  
+formal Product Owner, Tech Strategiest at. [Scatterlab](https://scatterlab.co.kr/), [pingpong](https://pingpong.us/)  
+  
 
 ### tracking log
 since April 29, 2020  
