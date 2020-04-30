@@ -1,8 +1,8 @@
 ---
 title:  "Open Sammy log"
 date: Apr 29, 2020
-categories: ['moments-of-sammy']
-tags: ['blog']
+categories: 'moments-of-sammy'
+tags: 'blog'
 published: false
 ---
 
