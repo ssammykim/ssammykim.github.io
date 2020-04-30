@@ -119,6 +119,9 @@ footer_links:
   - title: email
     url: mailto:ssammykim@kakao.com
     icon: fas fa-envelope-square
+  - title: buymeacoffee
+    url: https://www.buymeacoffee.com/ssammy
+    icon: fas fa-coffee
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
