@@ -6,13 +6,13 @@ $serif-font-family: "Lora";
 $font-family: "Montserrat",sans-serif;
 $sans-serif-font-family: "Source Sans Pro", sans-serif;
 $noto-sans-font-family: 'Noto Sans KR', sans-serif;
-$font-family: 'NanumSquareRound',sans-serif;
 $roboto-font-family: 'Roboto', sans-serif;
+
+$title-font-family: $font-family;
 
 /*
 $base-font-family: $noto-sans-font-family;
 $headline-font-family: $noto-sans-font-family;
-$title-font-family: $noto-sans-font-family;
 $description-font-family: $noto-sans-font-family;
 $meta-font-family: $noto-sans-font-family;
 */
@@ -45,6 +45,9 @@ P {
 .page-title {
     letter-spacing: -2px;
     margin-bottom: 1em;
+    font-size: calc(30px + 12 * ((100vw - 320px) / 1500));
+    font-weight: 700;
+
 }
 
 .site-description {
