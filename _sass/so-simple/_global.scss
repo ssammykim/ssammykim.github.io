@@ -16,7 +16,9 @@
   padding: 0.25em 0.75em 0.5em;
   text-transform: uppercase;
   text-decoration: none;
-  text-align: center;
+  text-align: center; 
+  font-family: $title-font-family;
+
 
   @include breakpoint($medium) {
     display: none;
