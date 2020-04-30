@@ -32,7 +32,9 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-  - name: "Noto Sans KR"
+  - name: "Montserrat"
+    weights: "400,400i,700,700i"
+  - name: "Noto Sans"
     weights: "400,400i,700,700i"
   - name: "NanumSquareRound"
     weights: "400,400i,700,700i"
@@ -119,9 +121,9 @@ footer_links:
   - title: email
     url: mailto:ssammykim@kakao.com
     icon: fas fa-envelope-square
-  - title: buymeacoffee
-    url: https://www.buymeacoffee.com/ssammy
-    icon: fas fa-coffee
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: buymeacoffee
+    url: https://www.buymeacoffee.com/ssammy
+    icon: fas fa-coffee
