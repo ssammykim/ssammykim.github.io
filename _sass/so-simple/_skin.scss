@@ -252,7 +252,7 @@ td {
         border: 1px solid $border-color;
       }
       @if ($buttoncolor == light-outline) {
-        border: 1px solid #fff;
+        border: 2px solid #FDA3A3;
       }
 
       &:hover {
