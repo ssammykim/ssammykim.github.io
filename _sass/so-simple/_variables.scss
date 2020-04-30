@@ -40,14 +40,14 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 /* Font Families */
 $font-family: "Montserrat",sans-serif !default;
 $sans-serif-font-family: "Source Sans Pro", sans-serif;
-$noto-sans-font-family: "Noto Sans", sans-serif !default;
+$noto-sans-font-family: 'Noto Sans KR', sans-serif;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
-$base-font-family: $font-family !default;
-$headline-font-family: $font-family !default;
-$title-font-family: $font-family !default;
-$description-font-family: $noto-sans-font-family !default;
-$meta-font-family: $font-family !default;
+$base-font-family: $sans-serif-font-family !default;
+$headline-font-family: $sans-serif-font-family !default;
+$title-font-family: $serif-font-family !default;
+$description-font-family: $serif-font-family !default;
+$meta-font-family: $serif-font-family !default;
 
 $page-title-weight: bold !default;
 $entry-title-weight: bold !default;
