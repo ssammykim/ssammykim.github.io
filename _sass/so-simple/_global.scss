@@ -50,6 +50,7 @@
     padding: 0.5em 0.75em;
     text-transform: uppercase;
     text-decoration: none;
+    font-family: $title-font-family;
     border: 1px solid;
     border-radius: $border-radius;
   }
@@ -159,6 +160,7 @@
 .back-to-top {
   display: block;
   font-size: 0.75rem;
+  font-family: $title-font-family;
   text-transform: uppercase;
   text-align: right;
   text-decoration: none;
@@ -239,6 +241,7 @@
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
       font-size: 0.75rem;
+      font-family: $title-font-family;
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
@@ -326,6 +329,7 @@
     padding-left: 2rem;
     overflow: hidden;
     font-size: 0.9rem;
+    font-family: $title-font-family;
     -webkit-transition: height 350ms ease;
     transition: height 350ms ease;
 
@@ -340,6 +344,7 @@
     font-family: $title-font-family;
 
     a {
+      font-family: $title-font-family;
       display: inline-block;
       color: inherit;
       font-size: 0.75rem;
