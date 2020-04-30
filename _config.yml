@@ -103,7 +103,7 @@ defaults:
 # Site Author
 author:
   name: Sammy
-  picture: "/images/profile_sammy.jpeg"
+  picture: "/assets/logo.ico/apple-icon-180x180.png"
   twitter:
   links:
     - title: GitHub
