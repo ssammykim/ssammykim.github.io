@@ -63,6 +63,7 @@ blockquote {
 }
 
 .back-to-top {
+  font-family: $title-font-family;
   color: lighten($text-color, 50%);
 }
 
