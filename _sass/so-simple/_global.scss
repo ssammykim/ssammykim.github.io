@@ -180,7 +180,7 @@
 .taxonomy-title {
   @include fluid-type($min-vw, $max-vw, 28px, 32px);
   margin-bottom: 0.5em;
-  font-family: $base-font-family;
+  font-family: $title-font-family;
 }
 
 .taxonomy-index {
@@ -189,7 +189,7 @@
   grid-template-columns: repeat(2, 1fr);
   margin: 0;
   padding: 0;
-  font-family: $base-font-family;
+  font-family: $title-font-family;
   font-size: 0.9rem;
   list-style: none;
 
@@ -297,7 +297,7 @@
     align-items: center;
     margin: 0;
     padding: 0.75rem 1rem;
-    font-family: $base-font-family;
+    font-family: $title-font-family;
     font-size: 0.75rem;
     text-transform: uppercase;
     cursor: pointer;
@@ -337,7 +337,7 @@
 
   li {
     padding: 0.3em 0;
-    font-family: $base-font-family;
+    font-family: $title-font-family;
 
     a {
       display: inline-block;
