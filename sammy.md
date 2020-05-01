@@ -4,19 +4,20 @@ title: sammy
 permalink: /sammy/
 ---
 
-<figure style="width: 150px" class="align-left">
+<!--<figure style="width: 150px" class="align-left">
   <img src="{{ '/images/profile_page_sammy.png' | absolute_url }}" alt="">
-</figure> 
+</figure>-->
 
+<figure class="align-center">
+  <a href="#"><img src="{{ '/images/profile_page_sammy.png' | absolute_url }}" alt=""></a>
+  <figcaption>Sammy KIM :kissing_heart: , always searching for the next <b>challenge</b></figcaption>
+</figure> 
 <br>
-<br>
-Sammy KIM :kissing_heart: , always searching for the next **challenge**<br>
 AI designer, NLP engineering Director at. <a href="https://www.kakaoenterprise.com" target="_blank">Kakaoenterprise</a><br>
 former Product Owner, Tech Strategist at. <a href="https://scatterlab.co.kr" target="_blank">Scatterlab</a>, <a href="https://pingpong.us" target="_blank">pingpong</a>
 <br>
 <br>
-<br>
-***
+---
 ### tracking log
 since April 29, 2020  
 total posts: {{ site.posts | size }}
