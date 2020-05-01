@@ -10,10 +10,12 @@ permalink: /sammy/
 
 Sammy KIM :kissing_heart: , always searching for the next **challenge**<br>
 AI designer, NLP engineering Director at. <a href="https://www.kakaoenterprise.com" target="_blank">Kakaoenterprise</a><br>
-former Product Owner, Tech Strategist at. <a href="https://scatterlab.co.kr" target="_blank">Scatterlab</a>, <a href="https://pingpong.us" target="_blank">pingpong</a> 
- 
- 
- 
+former Product Owner, Tech Strategist at. <a href="https://scatterlab.co.kr" target="_blank">Scatterlab</a>, <a href="https://pingpong.us" target="_blank">pingpong</a>
+<br>
+<br>
+<br>
+<br>
+<br>
 ***
 ### tracking log
 since April 29, 2020  
