@@ -7,13 +7,11 @@ permalink: /sammy/
 <!--<figure style="width: 150px" class="align-left">
   <img src="{{ '/images/profile_page_sammy.png' | absolute_url }}" alt="">
   <figcaption>dd</figcaption>
-
 </figure>-->
 
 <figure style="width: 150px" class="align-center">
   <a href="#"><img src="{{ '/images/profile_page_sammy.png' | absolute_url }}" alt=""></a>
 </figure> 
-<br>
 <center>
   <b>Sammy KIM</b> :kissing_heart: always searching for the next <b>challenge</b>
   AI designer, NLP engineering Director at. <a href="https://www.kakaoenterprise.com" target="_blank">Kakaoenterprise</a><br>
