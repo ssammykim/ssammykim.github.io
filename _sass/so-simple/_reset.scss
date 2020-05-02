@@ -68,6 +68,13 @@ address {
   margin-bottom: 1.5rem;
 }
 
+h1,
+h2 {
+   padding-bottom: .3em;
+   border-bottom: 1px solid #eaecef;
+}
+
+
 /**
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
