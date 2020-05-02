@@ -6,6 +6,6 @@ Sammy log : <https://ssammykim.github.io/>
 - ideation|research
 - review
 - money
-- smalltalk
+- smalltalk  
 <br>
 #### tags
