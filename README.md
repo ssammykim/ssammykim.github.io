@@ -1,4 +1,4 @@
-## <b>Sammy log</b>
+# Sammy log
 <https://ssammykim.github.io/>
 <br><i>since april 29, 2020</i>
 <br>
