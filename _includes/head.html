@@ -31,7 +31,8 @@
 
 
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon_sammy.png' | relative_url}}"> <!--favicon image update, iphone safari unapplied-->
+  <link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon_sammy.png' | relative_url}}">
+  <link rel="icon" href="http://ssammykim.github.io/assets/favicon_sammy.png?v=2" /> <!--favicon image update, iphone safari unapplied-->
   <link rel="stylesheet" href="{{ site.skin | default: '/assets/css/skins/default.css' | relative_url }}">
   {% if site.google_fonts %}
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={%- for font in site.google_fonts -%}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{%- endfor -%}">
