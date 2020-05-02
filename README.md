@@ -8,6 +8,4 @@
 - money
 - smalltalk
 
-<br>
-
 ## tags
