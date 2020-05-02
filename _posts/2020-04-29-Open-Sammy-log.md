@@ -3,7 +3,8 @@ title:  "Open Sammy log"
 date: Apr 29, 2020
 categories:
   - smalltalk
-tags: 'blog'
+tags:
+  - blog
 published: true
 ---
 
