@@ -86,21 +86,17 @@ article: <https://arxiv.org/pdf/2004.13637.pdf>
 > if they’re too long, the chatbot seems to waffle and not listen.
 결국 위와같은 Trade-off를 제어하기 위해 : tuning the minimum beam length gives important control over the “dull versus spicy” spectrum of responses.
 
-- 근데 잠깐 논문의 예시를 보니까 자연스러운 길이라고 말할 수 있는지는 모르겠다는... ~~누가 말을 이렇게 맨날 꽉꽉채워 글자 제한 있는 트위터도 꽉꽉 안쓰...~~
+근데 잠깐 논문의 예시를 보니까 자연스러운 길이라고 말할 수 있는지는 모르겠다는... ~~누가 말을 이렇게 맨날 꽉꽉채워 글자 제한 있는 트위터도 꽉꽉 안쓰...~~
  
 ## Putting our recipe to the test
 Google Meena와 Pairwise human evaluation (약간 좀 못 믿겠는 결과...ㅋㅋ)
 
 질문 항목 
-```
-1) 누구랑 더 오래 대화하고 싶어?(showing engagingness)
-“Who would you prefer to talk to for a long conversation?” 
-- Facebook : 75%
-
-2) 누가 더 사람같아?(showing humanness)
-“Which speaker sounds more human?” 
-- Facebook : 65%
-```
+ 1. 누구랑 더 오래 대화하고 싶어?(showing engagingness) “Who would you prefer to talk to for a long conversation?” 
+  - Facebook : 75%
+  
+ 2. 누가 더 사람같아?(showing humanness) “Which speaker sounds more human?” 
+  - Facebook : 65%
 
 Human evaluation에서 드러난 blending skills and choosing a generation strategy 의 중요성
 - 이것은 곧 nonrepetitive, detailed responses 생성을 의미하기도 함
@@ -116,7 +112,10 @@ Human evaluation에서 드러난 blending skills and choosing a generation strat
 - Our latest model’s performance is nearly equal to human-level quality in this specific test setup.
 - Though it’s rare, our best models still make mistakes, like contradiction or repetition, and can “hallucinate” knowledge
 
+
 ## 끝으로 페북이 하고 있는 것들
 We’re also focused on ***building stronger classifiers to filter out harmful language in dialogues.*** 
 - And we’ve seen preliminary success in studies to help mitigate gender bias in chatbots.
 
+
+`기능-일상 블랜딩`도 중요하지만, `일상 대화 블랜딩` 자체도 엄청나게 어려운 테스크임은 분명하다. 전에 핑퐁 팀에 있을 때도 그렇고, 얼기설기인 것 처럼 보이지만 엄청나게 정교하게 작동하고 있는 사람의 언어 시스템을 모방한다는 건 정말 어려운 일인 것 같다. 그만큼 모델 성능에 영향을 미치는 모델 구조 그 자체나 데이터 선택도 어렵고 중요한 일이겠지. 그런 의미에서 크라우드 소싱도 ㅋㅋ 그냥 할 것이 생각보다(?) 아님 (조금만 울고...😭)... 쨌든 아직 논문을 다 읽어보진 못했지만, "hallucinate knowledge" 라는 것도 어떤 의미를 말하는 건지 제대로 봐야겠다. 일상 대화 기술과 외부 지식을 연동 시키는 일이 서비스 단에서는 매우 골치아픈 일이니까🤦‍♀️ . 두서없는 블로그 글과 두서없는 마무리란ㅋㅋㅋ 뿅.
