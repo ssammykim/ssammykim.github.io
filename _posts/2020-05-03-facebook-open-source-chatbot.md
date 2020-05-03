@@ -117,5 +117,6 @@ Human evaluation에서 드러난 blending skills and choosing a generation strat
 We’re also focused on ***building stronger classifiers to filter out harmful language in dialogues.*** 
 - And we’ve seen preliminary success in studies to help mitigate gender bias in chatbots.
 
+<br>
 
 `기능-일상 블랜딩`도 중요하지만, `일상 대화 블랜딩` 자체도 엄청나게 어려운 테스크임은 분명하다. 전에 핑퐁 팀에 있을 때도 그렇고, 얼기설기인 것 처럼 보이지만 엄청나게 정교하게 작동하고 있는 사람의 언어 시스템을 모방한다는 건 정말 어려운 일인 것 같다. 그만큼 모델 성능에 영향을 미치는 모델 구조 그 자체나 데이터 선택도 어렵고 중요한 일이겠지. 그런 의미에서 크라우드 소싱도 ㅋㅋ 그냥 할 것이 생각보다(?) 아님 (조금만 울고...😭)... 쨌든 아직 논문을 다 읽어보진 못했지만, "hallucinate knowledge" 라는 것도 어떤 의미를 말하는 건지 제대로 봐야겠다. 일상 대화 기술과 외부 지식을 연동 시키는 일이 서비스 단에서는 매우 골치아픈 일이니까🤦‍♀️ . 두서없는 블로그 글과 두서없는 마무리란ㅋㅋㅋ 뿅.
