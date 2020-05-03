@@ -85,6 +85,7 @@ article: <https://arxiv.org/pdf/2004.13637.pdf>
 
 > if they’re too long, the chatbot seems to waffle and not listen.
 결국 위와같은 Trade-off를 제어하기 위해 : tuning the minimum beam length gives important control over the “dull versus spicy” spectrum of responses.
+
 - 근데 잠깐 논문의 예시를 보니까 자연스러운 길이라고 말할 수 있는지는 모르겠다는... ~~누가 말을 이렇게 맨날 꽉꽉채워 글자 제한 있는 트위터도 꽉꽉 안쓰...~~
  
 ## Putting our recipe to the test
