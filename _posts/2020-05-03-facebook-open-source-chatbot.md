@@ -57,6 +57,7 @@ article: <https://arxiv.org/pdf/2004.13637.pdf>
 
 ## blending skills
 > In fact, if not done carefully, it can make the model imitate poor or even toxic behavior.  
+
 이게 잘 되지 않으면... 그냥 말 멍청하게 따라하기만 함...  
 
 그래서 BST(Blended Skill Talk) ~~(BTS라고 읽을뻔)~~ consists of following skills 
