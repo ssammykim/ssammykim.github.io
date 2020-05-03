@@ -30,6 +30,7 @@ article: <https://arxiv.org/pdf/2004.13637.pdf>
 그냥 읽으면서 정리한 것이기 때문에 두서 없음 주의* (논문은 따로... ^^7)
 
 > Conversation is an art that we practice every day
+
 크흐... art 맞지... rgrg  
 
 실제로 사람처럼 "대화"할 수 있다는 건 이런 걸 할 수 있다는 것과도 같음 
@@ -40,7 +41,8 @@ article: <https://arxiv.org/pdf/2004.13637.pdf>
 지금까지는... 이미 specialized, preprogrammed tasks, (정해진 경로에 따라 수행하기만 하면 되는 것들... 항공권 예약과 같은 것)에 대한 고도화 작업이 이루어 졌음...
 
 > But truly intelligent, human-level AI systems must effortlessly understand the broader context of the conversation and how specific topics relate to each other.
-= 는 자연스러운 대화 챗봇을 만들기 위해서 모든 사람들이 꿈꾸는 것이기도 하지...  
+
+= 는 자연스러운 대화 챗봇을 만들기 위해서 모든 사람들이 꿈꾸는 것이기도 함...  
 
 그래서 페북이 준비한 Open-sourced Blender, the largest-ever open-domain chatbot
 > This is the first time a chatbot has learned to blend several conversational skills — including the ability to assume a persona, discuss nearly any topic, and show empathy — in natural, 14-turn conversation flows.
