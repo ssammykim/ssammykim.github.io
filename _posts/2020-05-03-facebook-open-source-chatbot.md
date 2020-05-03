@@ -70,7 +70,7 @@ article: <https://arxiv.org/pdf/2004.13637.pdf>
   - (dramatic effect on human evaluations of the bot’s conversational ability) 그렇다고 합니다... 이 놈의 human evaluation은 믿을 수가 있어야지...🍒🍒
 
 ## Generation strategies (The choice of decoding algorithm)
-~~잠깐 스쳐가는 외개인아가 '빙시나' generation bug(?)...ㅋㅋ~~
+~~잠깐 스쳐가는 외개인아가 '빙시나' generation bug(?)...ㅋㅋ~~  
 모델을 트레이닝 하고 나면 보통 리서처들이 "to make sure conversational agents don’t repeat themselves or display other shortcomings" use a number of possible generation strategies, including 
 - beam search 
 - next token sampling 
