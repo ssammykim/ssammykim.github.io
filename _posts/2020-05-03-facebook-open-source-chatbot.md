@@ -112,8 +112,8 @@ Human evaluation에서 드러난 blending skills and choosing a generation strat
 실제로 generation strategy fine-tuning 방법으로 쓰인 beam blocking and controlling for the minimum beam length 도 큰 영향을 미침
 - minimum beam length constraint 제거시 모델 답변이 절반으로 짧아짐 : Performance 49% → 21%
 
-Our latest model’s performance is nearly equal to human-level quality in this specific test setup.
-- 물론 (실제 사람과 비교해서) 약점 여전히 있음 
+물론 (실제 사람과 비교해서) 약점 여전히 있음
+- Our latest model’s performance is nearly equal to human-level quality in this specific test setup.
 - Though it’s rare, our best models still make mistakes, like contradiction or repetition, and can “hallucinate” knowledge
 
 ## 끝으로 페북이 하고 있는 것들
