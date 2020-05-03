@@ -50,7 +50,9 @@ article: <https://arxiv.org/pdf/2004.13637.pdf>
 
 (데모를 보긴 봤는데... 끊임없이 말을 하게 하는 듯ㅋㅋ 한국어가 아니라서 그렇게 와닿지 않는 느낌적인 느낌)
 
+
 # Chatbot recipe: Scale, blending skills, and generation strategies
+
 ## Scale
 - 다른 챗봇이랑 마찬가지로 large-scale training 고고
 - 뉴럴넷이 겁나 커서 줄이는 기술 쓰고 해서 효율적으로 함 어쩌고 저쩌고 ㅇㅇ (이건 다른 챗봇들도 똑같이 신경써서 하는 거니까 패스)
