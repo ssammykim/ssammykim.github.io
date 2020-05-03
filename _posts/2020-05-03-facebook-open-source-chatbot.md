@@ -93,10 +93,12 @@ Google Meena와 Pairwise human evaluation (약간 좀 못 믿겠는 결과...ㅋ
 
 질문 항목 
 ```
-1) 누구랑 더 오래 대화하고 싶어? “Who would you prefer to talk to for a long conversation?” (showing engagingness)
+1) 누구랑 더 오래 대화하고 싶어?(showing engagingness)
+“Who would you prefer to talk to for a long conversation?” 
 - Facebook : 75%
 
-2) 누가 더 사람같아? “Which speaker sounds more human?” (showing humanness) 
+2) 누가 더 사람같아?(showing humanness)
+“Which speaker sounds more human?” 
 - Facebook : 65%
 ```
 
