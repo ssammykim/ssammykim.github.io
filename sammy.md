@@ -14,7 +14,7 @@ permalink: /sammy/
 </figure> 
 <center>
   <b>Sammy KIM</b> 😘 always searching for the next <b>challenge</b><br>
-  AI designer, NLP engineering Director at. <a href="https://www.kakaoenterprise.com" target="_blank">Kakaoenterprise</a><br>
+  AI Designer, NLP engineering Designer at. <a href="https://www.kakaoenterprise.com" target="_blank">Kakaoenterprise</a><br>
   former Product Owner, Tech Strategist at. <a href="https://scatterlab.co.kr" target="_blank">Scatterlab</a>, <a href="https://pingpong.us" target="_blank">pingpong</a>
 </center> 
 <br>
