@@ -30,6 +30,6 @@ excerpt_separator: "<!--more-->"
 
 이미 깃헙 블로그나 온보딩 위키 정리같은 일들을 다 해버려서 정리해보니 별로(?) 없네. 그 외의 것들은 생각나면 더 추가하는 것으로 하고, 얼마 전에 유튜브 영상에서 홀린듯이 보고 영화까지 찾아봤지만 2D에 만족하기로 한 송위룡(宋威龙) 이야기로 마무리(?). 그나저나 송위룡 이름은 암만 생각해도 조자룡처럼 멋있는 이름인데(중알못..ㅋㅋ) 중국 토크쇼에서 보니 옛날 이름같은 느낌인가보다. 
 
-![input](https://owhyes.com/wp-content/uploads/2020/01/Song-Weilong.jpg "Song Weilong"){: width="70%"}{: .center}
+![input](https://1.bp.blogspot.com/-E0AFQtHBvmc/XiGR2x1OBlI/AAAAAAAAC2o/X65HSNea6YAJgiQEj7w0aYULcw-fbeA8QCLcBGAsYHQ/s1600/Song%2BWeilong.jpg "Song Weilong"){: width="70%"}{: .center}
 
 암튼 왜 갑분 송위룡이냐면, 한국에서는 정말 얼마 전에 개봉한 송위룡 출연작 영화 `나의 청춘은 너의 것 (2019) Love The Way You Are, 我的青春都是你` 를 오늘 봤기 때문임. 정말 충격과 공포?의 향연이었지만ㅋㅋ(그냥 너.무. 하이틴 로코) 송위룡 얼굴 보고 마음의 위안을 얻음ㅋㅋ + 영화 OST 정도... 특히 영화 OST는 <a href="https://youtu.be/eSHPDIEjgv0" target="_blank">Mayday - I Won't Let You Be Lonely</a> 라는 곡인데, 잔잔하니 좋다. 2012년? 노래라고 나오는데 뭐지? 2Q에 송위룡 때문에 중국어도 넣을뻔 ~~(웨이보도 시작할뻔)~~ 했지만 곱게 잠시 접어둠. 언제 급 튀어나올지 모르겠지만..ㅋㅋ. 노래나 들어야겠다. 뿅
