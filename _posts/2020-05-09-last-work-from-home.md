@@ -39,8 +39,7 @@ excerpt_separator: "<!--more-->"
 회의를 무슨 눈치 게임하듯 말할 타이밍 잡는 게 너무 힘들다 화상회의는. 말할 타이밍 뿐만 아니라, 오프라인으로 회의를 하다보면 그날의 회의 분위기가 자연스럽게 읽히는데 공기라고 해야하나. 근데 온라인은 그게 좀 애매~한 느낌?ㅋㅋ 물론 업무를 보기에 부족했던 점은 없지만, 어떤 프로젝트에서 매주 온라인으로만 하다가 오프라인 워크샵을 했는데 그게 그렇게 반갑고 진도도 팍팍 나가는 느낌이 들었어서. 참고로 아래의 영상은ㅋㅋ 재택 시작하고 얼마되지 않았을 때 공유되었던 것. 그래도 우리 회사는 화상회의 정말 잘 활용하곤 했는데 암튼 그냥 회의는 오프라인이 아직은 짱인 것 같다. 
 
 <br>
-
-{% include youtube_embed.html id="DYu_bGbZiiQ" %}
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DYu_bGbZiiQ' frameborder='0' allowfullscreen></iframe></div>
 <br>
 
 뭐 재택 후기는 이 정도고, 재택을 하면서 확찐.자 까지는 아니어도 좀찐자가 된 것 같긴 해서... 회사 나가면 인바디부터 해봐야지(?). 어차피 출근을 하면 좀 빠지겠거니 막연한 희망과 환상(?)을 품고 있긴 하지만...ㅋㅋㅋ 살이 문제가 아니라 체력이 거지가 되었을 것 같은 느낌. 재택 중에 한 손가락에 꼽을 정도 오프라인 출근을 정말 띄.엄.띄.엄. 했는데, 정말 출근하고 오면 그날 그렇게 세상 피곤할 수가 없었음. 그걸 생각하면 벌써부터 조금. 아주 조금은 걱정이 되네...ㅋㅋ 그래도 이미 월요일 투두가 정해져 있기 때문에 힘내야징. 블로그도 잘 활용하자. 방학 숙제 일기같은 압박감이 아니고 정말 내 블로그 싸랑하니까ㅋㅋ 괜히 다른 공간보다 특별한 느낌도 있고ㅋㅋ 뿅.
