@@ -40,7 +40,7 @@ excerpt_separator: "<!--more-->"
 
 <br>
 
-{% include youtube_embed.html id="DYu_bGbZiiQ" %}
+{% include responsive-embed url="https://www.youtube.com/embed/DYu_bGbZiiQ" % ratio="4:3"}
 
 <br>
 
