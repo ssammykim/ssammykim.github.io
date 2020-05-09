@@ -40,7 +40,7 @@ excerpt_separator: "<!--more-->"
 
 <br>
 
-{% include youtube_embed.html id="DYu_bGbZiiQ" %}{: width="70%"}{: .center}
+{% include youtube_embed.html id="DYu_bGbZiiQ" %}
 
 <br>
 
