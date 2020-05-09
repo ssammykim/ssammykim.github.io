@@ -1,5 +1,5 @@
 ---
-title:  "재택근무 끝...ㅎㅎ"
+title: "재택근무 끝...ㅎㅎ"
 date: May 09, 2020
 categories:
   - smalltalk
