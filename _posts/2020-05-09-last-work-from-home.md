@@ -40,7 +40,9 @@ excerpt_separator: "<!--more-->"
 
 <br>
 
-{% include responsive-embed url="https://youtu.be/DYu_bGbZiiQ" ratio="4:3" %}
+<div class="responsive-embed responsive-embed-4by3">
+  <iframe class="responsive-embed-item" src="https://youtu.be/DYu_bGbZiiQ"></iframe>
+</div>
 
 <br>
 
