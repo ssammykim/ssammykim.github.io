@@ -41,7 +41,7 @@ excerpt_separator: "<!--more-->"
 ## 2. 회의는 아직 오프라인 회의가 좋다
 회의를 무슨 눈치 게임하듯 말할 타이밍 잡는 게 너무 힘들다 화상회의는. 말할 타이밍 뿐만 아니라, 오프라인으로 회의를 하다보면 그날의 회의 분위기가 자연스럽게 읽히기 마련인데 ✌️공기✌️라고 해야하나. 근데 온라인은 그게 좀 애매~한 느낌?ㅋㅋ 물론 업무를 보기에 부족했던 점은 없지만, 어떤 프로젝트에서 매주 온라인으로만 하다가 오프라인 워크샵을 했는데 그게 그렇게 반갑고 진도도 팍팍 나가는 느낌이 들었어서. 참고로 아래의 영상은ㅋㅋ 재택 시작하고 얼마되지 않았을 때 공유되었던 것. 그래도 우리 회사는 화상회의를 정말 잘 활용했다고 보는데, 암튼 난 그냥 회의는 오프라인이 아직은 짱인 것 같다. 
 
-<br>
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DYu_bGbZiiQ' frameborder='0' allowfullscreen></iframe></div>
 <br>
 
