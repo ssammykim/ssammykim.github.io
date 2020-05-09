@@ -5,7 +5,6 @@ categories:
   - smalltalk
 tags:
   - 
-thumbnail: https://2.bp.blogspot.com/-UrvGGHTHGDg/WkZ1iptXqWI/AAAAAAAACmM/XAteAf8SkG0-xgJt20KAH8C6JK_fIFmrwCLcBGAs/s1600/so%2Bexcited.jpg
 comments: true
 published: true
 excerpt_separator: "<!--more-->"
