@@ -41,7 +41,7 @@ excerpt_separator: "<!--more-->"
 <br>
 
 <div class="responsive-embed responsive-embed-4by3">
-  <iframe class="responsive-embed-item" src="https://youtu.be/DYu_bGbZiiQ"></iframe>
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/watch?v=DYu_bGbZiiQ"></iframe>
 </div>
 
 <br>
