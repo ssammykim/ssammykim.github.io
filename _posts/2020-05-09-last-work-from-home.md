@@ -40,7 +40,7 @@ excerpt_separator: "<!--more-->"
 
 <br>
 
-{% include responsive-embed url="https://youtu.be/DYu_bGbZiiQ" ratio="4:3" %}{% endraw %}
+{% include responsive-embed url="https://youtu.be/DYu_bGbZiiQ" ratio="4:3" %}
 
 <br>
 
