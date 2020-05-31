@@ -1,5 +1,5 @@
 ---
-title: "아이디어 불패의 법칙 (애매한) 리뷰" 
+title: "아이디어 불패의 법칙 리뷰" 
 date: May 24, 2020 
 categories: 
   - review 
