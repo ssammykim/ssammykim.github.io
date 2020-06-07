@@ -28,7 +28,7 @@ I got this<br>
 I embrace uncertainty<br>
 I am not my thoughts : I am what I do<br>
 I am relentless<br>
-I expert nth and accept everyth
+I expect nth and accept everyth
 >
 > <footer><strong>Gary John Bishop</strong> &mdash; UNFU*K YOURSELF</footer>
 
@@ -117,7 +117,7 @@ I expert nth and accept everyth
 
 <br>
 
-# chapter. 8 (7) I expert nth and accept everyth
+# chapter. 8 (7) I expect nth and accept everyth
 - 당신 삶에서 김빠지고 뭔가 억눌린 감정을 느낀 곳이라면, 어디든 기대가 숨어 있다.
 - 인생에 산재하는 분노는 기대의 산물
 - 기대는 각자의 상황에 긍정적인 영향을 줄 수 있는 행동을 하게 만드는 게 아니라, 여러 기대를 일부러 만들어내고 거기에 삶을 맞추게 한다.
