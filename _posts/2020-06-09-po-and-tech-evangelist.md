@@ -37,11 +37,13 @@ I am, however, a technology evangelist.
 처음에 에반젤리스트를 검색하면, '전도사'같은 게 나와서... 나도 '아 뭐야 이게..🙄'ㅋㅋ 싶었다. 아무래도 종교에서 많이 쓰이는 용어다보니 세상 어색. 아니나 다를까, 다른 블로그에서도 저런 설명을 해놔서 피식 하고 가져옴.
 
 <br>
+<br>
 
 >I actually find that based on the title alone, “Tech Evangelist” has a bit of a negative twist it. Someone who will chase you down and shove product down your throat. **However the intention of the role is to be less high-pressure marketing and sales, and more educating and friendly.**
 
 에반젤리스트도 전형적인 세일즈맨과는 다른 포지션이다ㅇㅇ. 물론 세일즈맨처럼 보일 수 있음 주의* evangelist라는 타이틀이 실제보다 좀 더 ✌️세일즈✌️스럽기 때문에 "Voice of Customer” 혹은 “Developer Advocate" 이런 이름을 쓰는 곳도 있긴 하단다. 하지만 어쨌든 에반젤리스트는 세일즈맨보다는, 기술에 대해서 잘 이해할 수 있도록, 왜 이 기술을 쓰고, 어떻게 쓰고, 어떻게 하면 더 잘 쓰고, 그런 것들을 고객에게 친절?하게 설명해주고 도와주는 사람인 느낌임. ~~(도와준다는 말이 맞는 말인지는 모르겠다. 결국 기업의 이익을 위해서 하는 거지만. 좋게 말하면 누이좋고 매부좋고를 위한다고 하면 되는건가 싶기도 하고)~~
 
+<br>
 <br>
 
 >Thus in high-tech, credibility and goodwill with a market are as important as sales and marketing activities. But in order to do this you can’t be a marketer or sales person, **you need to be both**, and ultimately a peer. Someone who has lived the life of IT or developers and can speak the same language. This is an evangelist.
@@ -49,11 +51,13 @@ I am, however, a technology evangelist.
 크으... 어쩐지 바로 위 인용문을 읽으면서 감탄했다. "시장 신용도를 쌓는 일은 세일즈, 마케팅 활동 만큼이나 매우 중요한 일이다. 하지만 이 일을 하고자 한다면, 마케터나 세일즈맨이 아닌, 마케터인 동시에 세일즈맨, 궁극적으로는 "Peer"가 되어야 한다. 즉, IT에 몸담은 사람이거나, 개발자로서 IT 언어를 할 수 있는 사람, 그것이 바로 에반젤리스트다." 잘 쓴 설명인 듯ㅋㅋ. 약간 왠지 모르게 내가 에반젤리스트에 대해 점점 미화, 우상화하고 있는 듯한 느낌이 든다🙄. 조심조심ㅋㅋ..
 
 <br>
+<br>
 
 물론 에반젤리스트의 롤은 점점 더 빠르게, 점점 더 복잡해져가고 있G만, 에반젤리스트의 종류는 많아도, 본질은 하나다. 소름2222.
 
 >However, the essence of all of them is the same. **We are all about being honest about the technologies we represent, helping end-users solve real world problems, and making sure the world at large knows what’s possible.**
 
+<br>
 <br>
 
 이 아래의 문구는 소개할 때 참 활용하기 좋은 설명이 아닐까 싶다.
@@ -66,6 +70,7 @@ and I evangelize that solution.”
 >(...) the role of technical evangelist is one that **informs, that communicates, that educates.** I act as a **bridge** between our potential customers and our engineers. I can speak with members from the C-Table, or the engineers that manage the technical infrastructure.
 
 <br>
+<br>
 
 Tech evangelist는 균형있게 해박해야한다. 이와 덧붙여서 (되게 고도의 전략이라고 보는 사람들도 있긴 하겠지만) 이 포지션은 오히려 '좋은 건 좋다 안 좋은 건 안 좋다'고 더 솔직하게 말할 수 있어야 한다. 자기네 서비스/기술의 부족한 점에 대해서 솔직하게 지적할 수 있어야, 고객에게 역으로 더 신뢰감을 줄 수 있으니까. 사실 그렇지 않으면 그냥 약장수 사기꾼 되는 거 아니겠음?🤷‍♀️ 
 
@@ -73,12 +78,14 @@ Tech evangelist는 균형있게 해박해야한다. 이와 덧붙여서 (되게 
 >It is absolutely critical that evangelists build credibility and speak honestly about the good and the bad around a particular technology. They should also be an unbiased thought leader in some specific movement.
 
 <br>
+<br>
 
 이렇게 고객에게 도움/교육/설명도 주고... 그래야 고객이 우리의 제품을, 우리가 의도했던 대로, 최대한 잘, 써먹을 수 있는 만큼, 잘 써먹을 수 있게 되니까. 
 
 >I fundamentally believe in educating (...) how to get the most from using our product.
 >At the end of the day, my role is to talk to our customers (wherever they may be), discover the challenges they are having with their information technology, and educate them on possible solutions to their challenges.
 
+<br>
 <br>
 
 실상 에반젤리스트의 역할은 대외적인 것에만 국한되지 않고, 내부적으로도 아주 중요하다. PO가 해야하는 역할 중 하나가 "empower and collaborate with team" 이었는데 에반젤리스트에게 기대하는 바도 거의 같다고 볼 수 있음.
@@ -89,6 +96,7 @@ Tech evangelist는 균형있게 해박해야한다. 이와 덧붙여서 (되게 
 
 >(...) it is the evangelist that should know the market better than anyone in the organization and be able to share those details with the marketing, product and engineering teams.
 
+<br>
 <br>
 
 이렇게 참 에반젤리스트는 중요한 역할인 것은 맞음. 하지만 내가 본 블로그에서는 아래와 같이 글을 맺고 있었는데 참 맘에 든 마무리여서 이걸 빼놓을 수가 없었다. 약간 지금 위에 정리된 글을 보면 소위 에반젤리스트'뽕' 맞은 느낌으로 기술되어 있는데, 실상 한 회사의 팀원들은 (궁극적으로) 모두 에반젤리스트다. 능숙하고 조화롭게 그 사람들을 조직하는 역할은 앞에서 계속 언급했던 "the evangelist"가 할 수는 있겠지만서도. 결론적으로는 에반젤리스트라고 너무 어깨에 뽕 넣지 말고, 많은 사람들이 우리 기술/서비스에 대해 잘 알 수 있도록 소통하고, 우리 기술/서비스의 메시지나 가치를 널리널리 알리는 데에 힘쓰는데나 열올려라ㅋㅋㅋ 이런 느낌의 마무리였음.
