@@ -10,7 +10,7 @@ published: true
 excerpt_separator: "<!--more-->"
 ---
 
-2019년 5월? 쯤이었나 나는 전 회사에서 Tech Strategist와 Product Owner를 겸직하게 되었다. 앨빈 말마따나 뭔가 있어보이는 직함이긴 했는데, 특히 저 Product Owner(이하 PO)라는 포지션은 SaaS Sales를 위해서 급하게? 마련된 포지션이었다. 그래도 2019년 2Q에서 4Q까지를 돌아보면, PO를 하면서 정말 정말 더 많은 사람과 연락하고, 뒤에서 수많은 것들을 챙기고, 다이나믹한 상황을 경험하면서 많이도 성장할 수 있었던 것 같다. 얼떨결에 맡은 PO는 정말 부담스럽기 짝이 없는 자리였다. 죽이되는 밥이 되든, 심지어 망해도 된다고 CEO가 그랬지만 어떻게 또 내가 맡은 건데 망하게 하냐고...(으..부담😭) 망하지만 말자!로 시작하긴 했지만 내심 잘 해내보고 싶었고, 결국 나중엔 운도 많이 따라서(운도 실력이닷!ㅋ) 꽤 나름 괜찮게 일을 마무리하고 떠날 수 있었음. 그런 내가 이번엔 Tech Evangelist가 된다(?) ㅋㅋ 별건 아니고오~ ㅋㅋ 아직 회사 내부에서도 해당 포지션의 역할과 하는 일에 대해서 큰 그림?만 존재할 뿐 구체적인 내용이 없어서 Evangelist에 대해서 내가 좀 찾아본 내용을 정리해봤다.
+2019년 5월? 쯤부터 나는 전 회사에서 Tech Strategist와 Product Owner를 겸직했었다. 앨빈 말마따나 뭔가 '있어보이는' 직함이긴 했는데, 특히 저 Product Owner(이하 PO)라는 포지션은 SaaS Sales를 위해서 급하게? 마련된 포지션이었다. 그래도 2019년 2Q에서 4Q까지를 돌아보면, PO를 하면서 정말 정말 더 많은 사람과 연락하고, 뒤에서 수많은 것들을 챙기고, 다이나믹한 상황을 경험하면서 많이도 성장할 수 있었던 것 같다. 얼떨결에 맡은 PO는 정말 부담스럽기 짝이 없는 자리였다. 죽이되는 밥이 되든, 심지어 망해도 된다고 CEO가 그랬지만 어떻게 또 내가 맡은 건데 망하게 하냐고...(으..부담😭) 망하지만 말자!로 시작하긴 했지만 내심 잘 해내보고 싶었고, 결국 나중엔 운도 많이 따라서(운도 실력이닷!ㅋ) 꽤 나름 괜찮게 일을 마무리하고 떠날 수 있었음. 그런 내가 이번엔 Tech Evangelist가 된다(?) ㅋㅋ 별건 아니고오~ ㅋㅋ. 사실 아직 회사 내부에서도 해당 포지션의 역할과 하는 일에 대해서 큰 그림?만 존재할 뿐 구체적인 내용이 없어서 Evangelist에 대해서 내가 좀 찾아본 내용을 정리해봤다.
 
 <!--more-->
 
@@ -30,11 +30,11 @@ Evangelist도 마찬가지. 친철하게 한국어로 이 포지션을 설명해
 
 <br>
 
-처음에 에반젤리스트를 검색하면, '전도사'같은 게 나와서... 나도 '아 뭐야 이게..🙄'ㅋㅋ 싶었다. 아무래도 종교에서 많이 쓰이는 용어다보니 세상 어색. 아니나 다를까, 다른 블로그에서도 저런 설명을 해놔서 피식 하고 가져옴.
+처음에 에반젤리스트를 검색하면, '전도사'같은 게 나와서... 나도 '아 뭐야 이게..🙄'ㅋㅋ 싶었다. 아무래도 종교에서 많이 쓰이는 용어다보니 세상 어색. 아니나 다를까, 다른 블로그에서도 이런 설명을 해놔서 피식 하고 가져옴.
 
->Not only am I not a weekend preacher, but also I’m not even religious. <br>
-It has traditionally had connotations of spirituality, or the preaching of a spiritual leader.<br>
-I am, however, a technology evangelist.
+>Not only am I not a weekend preacher, but also I’m not even religious.
+
+>It has traditionally had connotations of spirituality, or the preaching of a spiritual leader. I am, however, a technology evangelist.
 
 <br>
 
@@ -56,7 +56,7 @@ I am, however, a technology evangelist.
 
 <br>
 
-이 아래의 문구는 소개할 때 참 활용하기 좋은 설명이 아닐까 싶다.
+이 아래의 문구는 에반젤리스트를 소개할 때 참 활용하기 좋은 설명이 아닐까 싶다.
 
 >“I’m an evangelist. People come to us with a problem, my team provides a solution, and I evangelize that solution.”
 
