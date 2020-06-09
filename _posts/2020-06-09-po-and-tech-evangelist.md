@@ -29,17 +29,20 @@ Evangelist도 마찬가지. 친철하게 이 포지션을 설명해 놓은 건 �
 >Not only am I not a weekend preacher, but also I’m not even religious. <br>
 It has traditionally had connotations of spirituality, or the preaching of a spiritual leader.<br>
 I am, however, a technology evangelist.
->
 
-처음에 에반젤리스트라고 하면 검색했을 때, 전도사같은 게 나와서... 나도 '아 뭐야 이게..'ㅋㅋ 싶었다. 종교에서 아무래도 많이 쓰이는 용어이다보니 세상 어색. 아니나 다를까, 다른 블로그에서도 저런 설명을 해놔서 피식 하고 가지고 옴.
+처음에 에반젤리스트라고 하면 검색했을 때, 전도사같은 게 나와서... 나도 '아 뭐야 이게..🙄'ㅋㅋ 싶었다. 종교에서 아무래도 많이 쓰이는 용어다보니 세상 어색. 아니나 다를까, 다른 블로그에서도 저런 설명을 해놔서 피식 하고 가지고 옴.
+
+<br>
 
 >I actually find that based on the title alone, “Tech Evangelist” has a bit of a negative twist it. Someone who will chase you down and shove product down your throat. **However the intention of the role is to be less high-pressure marketing and sales, and more educating and friendly.**
 
 에반젤리스트도 전형적인 세일즈맨과는 다른 포지션이다ㅇㅇ. 물론 세일즈맨처럼 보일 수 있음 주의* evangelist라는 타이틀이 실제보다 좀 더 ✌️세일즈✌️스럽기 때문에 "Voice of Customer” 혹은 “Developer Advocate" 이런 이름을 쓰는 곳도 있긴 하단다. 하지만 어쨌든 에반젤리스트는 세일즈맨보다는, 기술에 대해서 잘 이해할 수 있도록, 왜 이 기술을 쓰고, 어떻게 쓰고, 어떻게 하면 더 잘 쓰고, 그런 것들을 고객에게 친절?하게 설명해주고 도와주는 사람인 느낌? ~~(도와준다는 말이 맞는 말인지는 모르겠다. 결국 기업의 이익을 위해서 하는 거지만. 좋게 말하면 누이좋고 매부좋고를 위한다고 하면 되는건가 싶기도 하고)~~
 
+<br>
+
 >Thus in high-tech, credibility and goodwill with a market are as important as sales and marketing activities. But in order to do this you can’t be a marketer or sales person, **you need to be both**, and ultimately a peer. Someone who has lived the life of IT or developers and can speak the same language. This is an evangelist.
 
-크으... 어쩐지 바로 위 인용문을 읽으면서 감탄했다. "시장 신용도를 쌓는 일은 세일즈, 마케팅 활동 만큼이나 매우 중요한 일이다. 하지만 이 일을 하고자 한다면, 마케터나 세일즈맨이 아닌, 마케터인 동시에 세일즈맨, 궁극적으로는 "Peer"가 되어야 한다. 즉, IT에 몸담은 사람이거나, 개발자로서 IT 언어를 할 수 있는 사람, 그것이 바로 에반젤리스트다." 잘 쓴 설명인듯ㅋㅋ. 약간 왠지 모르게 내가 에반젤리스트에 대해 점점 미화, 우상화하고 있는 듯한 느낌이 든다. 조심조심ㅋㅋ..
+크으... 어쩐지 바로 위 인용문을 읽으면서 감탄했다. "시장 신용도를 쌓는 일은 세일즈, 마케팅 활동 만큼이나 매우 중요한 일이다. 하지만 이 일을 하고자 한다면, 마케터나 세일즈맨이 아닌, 마케터인 동시에 세일즈맨, 궁극적으로는 "Peer"가 되어야 한다. 즉, IT에 몸담은 사람이거나, 개발자로서 IT 언어를 할 수 있는 사람, 그것이 바로 에반젤리스트다." 잘 쓴 설명인 듯ㅋㅋ. 약간 왠지 모르게 내가 에반젤리스트에 대해 점점 미화, 우상화하고 있는 듯한 느낌이 든다. 조심조심ㅋㅋ..
 
 <br>
 
@@ -99,11 +102,3 @@ Tech evangelist는 균형있게 해박해야한다. 이와 덧붙여서 (되게 
 ### Reference
 1) The role of a technical evangelist : https://blogs.dxc.technology/2019/01/23/the-role-of-a-technical-evangelist/
 2) tech evangelist: nightmare to hire but great to have : https://fixate.io/tech-evangelist-nightmare-to-hire-but-great-to-have/
-
-
-
-
-
-
-
-
