@@ -98,12 +98,13 @@ Tech evangelist는 균형있게 해박해야한다. 이와 덧붙여서 (되게 
 >This means that the evangelist should not be too prideful about their role in the public, and be willing to help everyone communicate, and get excited about the message and value proposition.
 
 <br>
+<br>
 
 뭐 여전히 에반젤리스트를 한 줄로 요약하기는 부담스럽다. 왜냐하면 내가 실제로 에반젤리스트로서 해야할 일이 어디까지인지 아직 잘 모르기도 하고, 아직 시작해보지 않고 남들이 이렇다고 써놓을 걸 가지고 "에반젤리스트는 ㅇㅇㅇ이다" 라고 하기에 아직은 떳떳하지 못한 것도 있고. 지금 뭐 준비를 하고는 있는데 새롭고, 처음이고, 책임감도 크고, ..., 그래서 벌써부터 긴장도 되고, 우리 기술에 대해서 좀 더 틈틈이 많이 공부부터 해야하지 않나 그런 생각도 하고ㅋㅋㅋ(이런 생각하다가도 그렇게 완벽하게 준비해놓고 시작하는 일이 어딨냐 싶어서 이젠 좀 더 닥치는 대로 부딪히면서 하는 게 빨리? 더 많이? 잘? 하는 방법이 아닌가 싶기도 함). 암튼 아직 갈 길은 멀지만 차근차근 준비하고있으니까 걱정보단 기대가 더 앞선다. 정말 좋은 기회니까 잘~ 나의 능력껏 활용해내는 것, 그게 내가 할일인 것 같다. 히히. Q.
 
 <br>
 <br>
-
+---
 ### Reference
 1) The role of a technical evangelist : https://blogs.dxc.technology/2019/01/23/the-role-of-a-technical-evangelist/
 2) tech evangelist: nightmare to hire but great to have : https://fixate.io/tech-evangelist-nightmare-to-hire-but-great-to-have/
