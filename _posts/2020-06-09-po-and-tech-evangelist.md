@@ -6,7 +6,7 @@ categories:
 tags: 
   - 
 comments: true 
-published: false
+published: true
 excerpt_separator: "<!--more-->"
 ---
 
