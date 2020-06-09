@@ -58,10 +58,7 @@ I am, however, a technology evangelist.
 
 이 아래의 문구는 소개할 때 참 활용하기 좋은 설명이 아닐까 싶다.
 
->“I’m an evangelist.<br>
-People come to us with a problem,<br>
-my team provides a solution,<br>
-and I evangelize that solution.”
+>“I’m an evangelist. People come to us with a problem, my team provides a solution, and I evangelize that solution.”
 
 >(...) the role of technical evangelist is one that **informs, that communicates, that educates.** I act as a **bridge** between our potential customers and our engineers. I can speak with members from the C-Table, or the engineers that manage the technical infrastructure.
 
