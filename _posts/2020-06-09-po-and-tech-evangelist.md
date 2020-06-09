@@ -114,5 +114,5 @@ Tech evangelist는 균형있게 해박해야한다. 이와 덧붙여서 (되게 
 <br>
 
 ### Reference
-1) The role of a technical evangelist : https://blogs.dxc.technology/2019/01/23/the-role-of-a-technical-evangelist/
-2) tech evangelist: nightmare to hire but great to have : https://fixate.io/tech-evangelist-nightmare-to-hire-but-great-to-have/
+1) The role of a technical evangelist : (https://blogs.dxc.technology/2019/01/23/the-role-of-a-technical-evangelist/) <br>
+2) tech evangelist: nightmare to hire but great to have : (https://fixate.io/tech-evangelist-nightmare-to-hire-but-great-to-have/)
