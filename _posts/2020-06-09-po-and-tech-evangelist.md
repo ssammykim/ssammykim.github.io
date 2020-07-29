@@ -2,7 +2,7 @@
 title: "Product Owner and Tech Evangelist" 
 date: June 09, 2020 
 categories: 
-  - smalltalk 
+  - work 
 tags: 
   - 
 comments: true 
