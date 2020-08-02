@@ -145,7 +145,7 @@ excerpt_separator: "<!--more-->"
 
 ## 그보다 먼저, 사명(mission)을 확인하기
 
-- 우리는 Connect Everything 인건가...? → 좀더 명확해지면 좋겠네... 이건 전사라고 친다면, 우리 팀, 우리 서비스의 사명은 어떤 것일까?
+- S: 우리는 Connect Everything 인건가...? → 좀더 명확해지면 좋겠네... 이건 전사라고 친다면, 우리 팀, 우리 서비스의 사명은 어떤 것일까?
 - 사명은 시처럼 근사한 구절일 필요는 없다. 간단하고 기억하기 쉬우며, 내가 시간을 어떻게 보낼지 고민할 때 안내를 해줄 수 있으면 충분하다
     - Apple:
         - Mission : “사람들에게 힘이 되는 인간적인 도구들을 제공하여, 우리가 일하고, 배우고, 소통하는 방식을 바꾼다(Providing human tools, dedicated to the empowerment of man, helping change the way we work, learn and communicate).”
@@ -191,15 +191,7 @@ excerpt_separator: "<!--more-->"
 <br>
 
 ## 그리고... 기억나는 몇 줄
-
-- 긴장이 될 땐, 발가락까지 숨을 보내보도록 하자
-- S: 책에 나오는 셰릴처럼 어려운 문제들을 끝내고 나서 지루해져 (다른 재밌는 것을 찾기 위해) 사퇴를 결심할 수 (있는 용기가) 있으면 좋겠다.
-- 지금 있는 문제들을 해결하자. 상상하는 문제들 말고
-- 재미있는 일만 할 순 없다
-- 성공할 때까진 성공한 척하라
-- 의지는 한정된 자원이다
-- 업무는 잡일의 목록이어서는 안 되며, 함께 공유하는 목표들을 향한 집단의 노력이어야 한다... (크...ㅋ)
-- OKRs help us achieve the best possible rather than the most probable results.
+> 긴장이 될 땐, 발가락까지 숨을 보내보도록 하자<br>S: 책에 나오는 셰릴처럼 어려운 문제들을 끝내고 나서 지루해져 (다른 재밌는 것을 찾기 위해) 사퇴를 결심할 수 (있는 용기가) 있으면 좋겠다.<br>지금 있는 문제들을 해결하자. 상상하는 문제들 말고<br>재미있는 일만 할 순 없다<br>성공할 때까진 성공한 척하라<br>의지는 한정된 자원이다<br>업무는 잡일의 목록이어서는 안 되며, 함께 공유하는 목표들을 향한 집단의 노력이어야 한다... (크...ㅋ)<br>OKRs help us achieve the best possible rather than the most probable results.
 
 <br>
 
