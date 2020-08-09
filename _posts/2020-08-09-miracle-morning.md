@@ -1,6 +1,6 @@
 ---
 title: "For my miracle morning" 
-date: Aug 2, 2020 
+date: Aug 9, 2020 
 categories: 
   - review 
 tags: 
