@@ -1,5 +1,5 @@
 ---
-title: "For my miracle morining" 
+title: "For my miracle morning" 
 date: Aug 2, 2020 
 categories: 
   - review 
